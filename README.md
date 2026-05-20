@@ -86,7 +86,6 @@ problemas reais com código simples e funcional.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -95,6 +94,7 @@ problemas reais com código simples e funcional.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 
 <br/>
 <br/>
@@ -109,12 +109,12 @@ problemas reais com código simples e funcional.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=WanderleyB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=WanderleyB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
   />
   <img 
     align="left" 
     alt="Linguagens" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanderleyB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WanderleyB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
   />
 </p>
