@@ -104,7 +104,7 @@ problemas reais com código simples e funcional.
 ### 📊 Estatísticas
 
 <p>
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WanderleyB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WanderleyB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=0" />
   &nbsp;&nbsp;&nbsp;
   <img alt="Linguagens" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WanderleyB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
