@@ -4,37 +4,6 @@
 
 **Backend Python Developer** — building internal enterprise systems, integrations & automation
 
-<p align="center">
-    <a href="https://github.com/WanderleyB?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="Total GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/WanderleyB?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-    <a href="https://github.com/WanderleyB?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/WanderleyB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-    <a href="https://linkedin.com/in/wanderley-bigosinski">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="mailto:zucari94@gmail.com">
-        <img 
-            alt="Email" 
-            title="Send me an email" 
-            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
-
 </div>
 
 ---
@@ -63,25 +32,27 @@ A unified internal portal built at **Mobensani**, consolidating over a dozen pre
 - **WhatsApp expense tracking bot** — n8n pipeline that classifies intent via WhatsApp messages and saves/queries expense records in PostgreSQL, mirrored to Google Sheets.
 - **Power BI reporting** — dashboards consuming data from the centralized application database and SAP HANA, giving leadership visibility into production, HR, procurement and carrier delivery KPIs.
 
-## 🛠️ Languages & Technologies
+## 🛠️ Tech Stack
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-<img align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="SQLAlchemy" title="SQLAlchemy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
+![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=flat&logo=sap&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![LDAP](https://img.shields.io/badge/LDAP%2FActive%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-<br/>
-<br/>
+## 📈 GitHub Stats
 
----
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WanderleyB&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanderleyB&layout=compact&hide_border=true" />
+</div>
 
-## 📊 GitHub Stats
+## 📫 Get in touch
 
-<p>
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WanderleyB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&cache_seconds=0" />
-  &nbsp;&nbsp;&nbsp;
-  <img alt="Top Languages" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WanderleyB&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanderley-bigosinski)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zucari94@gmail.com)
