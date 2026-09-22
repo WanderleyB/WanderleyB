@@ -56,11 +56,7 @@ A unified internal portal built at **Mobensani**, consolidating over a dozen pre
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WanderleyB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&cache_seconds=0" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WanderleyB&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
-</div>
+<div align="center"> <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WanderleyB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en&cache_seconds=0" /> &nbsp;&nbsp;&nbsp; <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WanderleyB&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" /> </div>
 
 ## 📫 Get in touch
 
