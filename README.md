@@ -5,20 +5,6 @@
 **Backend Python Developer** — building internal enterprise systems, integrations & automation
 
 <p align="center">
-    <a href="https://github.com/WanderleyB?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="Total GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/WanderleyB?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-    <a href="https://github.com/WanderleyB?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/WanderleyB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
     <a href="https://linkedin.com/in/wanderley-bigosinski">
         <img 
             alt="LinkedIn" 
